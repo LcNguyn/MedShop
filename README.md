@@ -14,6 +14,12 @@ A responsive React Native e-commerce app for medical products built with Expo an
     <td><img src="https://github.com/user-attachments/assets/ef42e94e-2f3d-45d2-a1c7-1379be0ad8f1" width="200"/></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8e08c63b-2611-458d-8c82-0a321a34bc77" width="500"/></td>
+  </tr>
+</table>
+
 
 ## 🚀 How to Run
 
