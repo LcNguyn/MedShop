@@ -20,6 +20,14 @@ A responsive React Native e-commerce app for medical products built with Expo an
   </tr>
 </table>
 
+## Core Functionality
+
+- **Product Catalog**: Display of medical products with details including name, price, category, and prescription status
+- **Search & Filter**: Real-time search functionality with text input and category-based filtering
+- **Shopping Cart**: Add products to cart with quantity management (min: 0, max: 99 per item)
+- **Order Summary**: Dynamic cart summary showing items, quantities, and total price
+
+
 
 ## 🚀 How to Run
 
